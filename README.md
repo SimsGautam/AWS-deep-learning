@@ -25,7 +25,8 @@ bash install_tensorflow_011.sh
 ```
 
 ### Install Caffe
-```bash caffe_dependencies.sh
+```
+bash caffe_dependencies.sh
 git clone https://github.com/BVLC/caffe.git
 cd caffe
 cp Makefile.config.example Makefile.config
