@@ -1,7 +1,7 @@
 # Using Amazon Web Services (AWS) GPU for Deep Learning
 #### CUDA, cuDNN, TensorFlow, Caffe, and other useful packages for Ubuntu 16.04
 
-### Useful Packages
+### Useful Packages and Dependencies
 ```
 # installs essential packages through apt-get and pip
 bash aws_setup.sh
