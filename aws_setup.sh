@@ -19,7 +19,6 @@ sudo apt-get --yes --force-yes install python-scipy
 sudo apt-get --yes --force-yes install python-skimage
 sudo apt-get --yes --force-yes install protobuf-compiler
 
-sudo pip install w3lib lxml cssselect
 sudo pip install numpy
 sudo pip install protobuf
 sudo pip install pillow

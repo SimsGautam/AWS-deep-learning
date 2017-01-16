@@ -19,9 +19,9 @@ bash install_cuda_8.sh
 * Transfer (you can use `scp`) the `.tgz` file from your local computer to your EC2 instance.
 * Install cuDNN from your ec2 instance with `bash install_cuDNN.sh`.
 
-### Install TensorFlow 0.11 and Monitoring Tools for Python 2.7
+### Install TensorFlow 0.12 and Monitoring Tools for Python 2.7
 ```
-bash install_tensorflow_011.sh
+bash install_tensorflow_012.sh
 ```
 
 ### Install Caffe
