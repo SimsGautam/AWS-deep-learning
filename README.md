@@ -11,11 +11,11 @@ bash aws_setup.sh
 ```
 bash install_cuda_8.sh
 ```
-### Install cuDNN 5.1 for CUDA 8.0 (manual steps)
+### Install cuDNN 6.0 for CUDA 8.0 (manual steps)
 
 * Make an account on [NVIDIA](https://developer.nvidia.com) and download [cuDNN](https://developer.nvidia.com/cudnn).
-* After the survey, select "cuDNN v5.1, for CUDA 8.0".
-* Download "cuDNN v5.1 Library for Linux" (should be a tar file).
+* After the survey, select "cuDNN v6.0, for CUDA 8.0".
+* Download "cuDNN v6.0 Library for Linux" (should be a tar file).
 * Transfer (you can use `scp`) the `.tgz` file from your local computer to your EC2 instance.
 * Install cuDNN from your ec2 instance with `bash install_cuDNN.sh`.
 
